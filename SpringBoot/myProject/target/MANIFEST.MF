@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: myproject
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_25
+Built-By: xl
+Created-By: IntelliJ IDEA
+Main-Class: ${start-class}
+

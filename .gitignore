@@ -1,3 +1,6 @@
 */.idea/*
 */.gradle/*
 *.log
+*/mvnw
+*/mvnw.cmd
+*/*.iml
